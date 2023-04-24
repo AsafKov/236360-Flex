@@ -1,0 +1,27 @@
+1 INT int
+1 ID main
+1 LPAREN (
+1 RPAREN )
+1 LBRACE {
+2 COMMENT //
+3 ID id32probably
+3 RELOP ==
+3 ASSIGN =
+3 RELOP <=
+3 RELOP >=
+3 BINOP /
+3 BINOP +
+3 BINOP -
+3 BINOP *
+3 SC ;
+4 IF if
+4 LPAREN (
+4 STRING catastrophicfailure
+4 RPAREN )
+4 LBRACE {
+5 ID fail
+5 LPAREN (
+5 RPAREN )
+5 SC ;
+6 RBRACE }
+Error undefined escape sequence a

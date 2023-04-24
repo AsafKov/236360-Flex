@@ -1,0 +1,7 @@
+int main() {
+    int a = 1+2;
+    @p= a/4*5;
+    str = "a+-[32\x3\r\t";""
+    int a = "\x20+\x40!?"
+	return 0;""bla
+}"

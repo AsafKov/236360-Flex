@@ -1,0 +1,36 @@
+1 INT int
+1 ID main
+1 LPAREN (
+1 RPAREN )
+1 LBRACE {
+2 INT int
+2 ID a
+2 ASSIGN =
+2 NUM 1
+2 BINOP +
+2 NUM 2
+2 SC ;
+3 ID p
+3 ASSIGN =
+3 ID a
+3 BINOP /
+3 NUM 4
+3 BINOP *
+3 NUM 5
+3 SC ;
+4 ID str
+4 ASSIGN =
+4 STRING a+-[32=	
+4 SC ;
+4 STRING 
+5 INT int
+5 ID a
+5 ASSIGN =
+5 STRING  +@!?
+6 RETURN return
+6 NUM 0
+6 SC ;
+6 STRING 
+6 ID bla
+7 RBRACE }
+Error unclosed string
