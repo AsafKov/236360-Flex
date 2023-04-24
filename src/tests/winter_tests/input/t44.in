@@ -1,7 +1,0 @@
-// Check undef escape
-
-int main() {
-	print("Hello world!");
-	print("Nice bad escape \ff here");
-	return 0;
-}

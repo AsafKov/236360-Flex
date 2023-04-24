@@ -1,7 +1,0 @@
-// No newlines in strings!
-
-int main () {
-    print("Hello 
-        World!");
-    return 0;
-}
